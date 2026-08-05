@@ -125,6 +125,16 @@ Responsible for
 
 </p>
 
+# 🏅 Achievements
+- 🥇 GPA 19.55 / 20
+- 🎓 Computer Engineering Student
+- 💻 Python Developer
+- 🌐 Web Developer
+- 📚 Editorial Manager
+- 👩‍💼 Founder of Belle's Book Club
+- 🚀 Founder of AetherCore
+- 🏆 Active Open Source Learner
+
 ---
 
 # 🔥 GitHub Streak
