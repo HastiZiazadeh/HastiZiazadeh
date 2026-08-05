@@ -1,60 +1,138 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Banner">
+</p>
 
-# Hi 👋 I'm Hasti Ziazadeh
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Hasti+Sadat+Ziazadeh;Computer+Engineering+Student;Python+Developer;Web+Developer;Software+Engineering+Enthusiast;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG">
+</p>
 
-### Computer Engineering Student
-### Python Developer • Web Developer • Software Engineering Enthusiast
+<h1 align="center">Hi 👋 I'm Hasti Sadat Ziazadeh</h1>
 
-I'm passionate about software development, web technologies, Python programming, and computer networks.
+<h3 align="center">
+Computer Engineering Student • Python Developer • Web Developer
+</h3>
 
-</div>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 Computer Engineering Student at Islamic Azad University
-- ⭐ GPA: **19.55 / 20**
-- 💻 Python & Web Development
-- 🌐 Interested in Software Engineering & Computer Networks
-- 📖 Editorial Manager of Computer Engineering Scientific Association
-- 🚀 Building projects and continuously learning new technologies
+<p align="center">
+Passionate about Software Development, Web Technologies, Computer Networks, and Open Source.
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 👩‍💻 About Me
 
-Python • HTML • CSS • JavaScript
+🎓 Computer Engineering undergraduate at **Islamic Azad University, Science & Research Branch** with a **GPA of 19.55 / 20**.
 
-C++ • SQL • MongoDB
+💻 Passionate about **Python Development, Web Development, Software Engineering, Databases, and Computer Networks**.
 
-Git • VS Code • Visual Studio
+🚀 I enjoy building practical software projects and continuously improving my skills through academic work, programming competitions, and real-world development.
 
-Windows 11
-
----
-
-## 🚀 Projects
-
-✔ Formula 1 Website
-
-✔ Van Gogh Biography Website
-
-✔ Persian Carpet Website
-
-✔ Restaurant Website
-
-More projects are available in my repositories.
+📚 Currently serving as **Editorial Manager** of the Computer Engineering Scientific Association while expanding my GitHub portfolio.
 
 ---
 
-## 📫 Contact Me
+# 🌟 Leadership & Community
 
-📧 Email:
-ziazadehhasti@gmail.com
+## 📖 Belle's Book Club
 
-💼 LinkedIn:
-https://linkedin.com/in/hasti-ziazadeh-82a983377
+**Founder • Owner • Administrator**
 
-🌍 GitHub:
-https://github.com/HastiZiazadeh
+- Founded and managed an educational book community.
+- Built a Telegram community with **5,000+ subscribers**.
+- Managed an Instagram page with **300+ posts**, **350+ followers**, and **17.5K+ monthly views**.
+- Responsible for branding, content strategy, and community management.
+
+---
+
+## 💻 AetherCore
+
+**Founder • Owner • Administrator**
+
+- Founded and manage a technology-focused Telegram community.
+- Share educational content about **Programming, AI, Cybersecurity, Software Engineering, and Emerging Technologies**.
+- Built a community of **500+ members**.
+- Responsible for content planning, branding, technical discussions, and community growth.
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,mysql,mongodb,git,github,vscode,visualstudio&perline=6"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+- 🏎 Formula 1 Multi-Page Website
+- 🎨 Van Gogh Biography Website
+- 🧶 Persian Carpet Website
+- 🍔 Restaurant Menu Website
+- 🐍 Python Projects
+- 📚 University Projects
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HastiZiazadeh&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HastiZiazadeh&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HastiZiazadeh&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HastiZiazadeh&theme=algolia&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/hasti-ziazadeh-82a983377">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:ziazadehhasti@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/HastiZiazadeh">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=HastiZiazadeh&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
